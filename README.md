@@ -1,2 +1,0 @@
-# pik
-Created with CodeSandbox

@@ -1,0 +1,33 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.6.1",
+    "mdi-material-ui": "5.7.0",
+    "moment": "2.22.2",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3",
+    "react-yandex-maps": "2.2.0",
+    "semantic-ui-calendar-react": "0.12.1",
+    "semantic-ui-react": "0.83.0",
+    "styled-components": "4.1.2",
+    "uuid": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
